@@ -1,0 +1,4 @@
+websockets
+ccxt
+pandas
+numpy
